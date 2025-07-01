@@ -4,7 +4,7 @@ SELECT *
 FROM "BRIGHT"."COFFEE"."SHOP"
 WHERE transaction_id IS NULL OR
 transaction_date IS NULL 
-OR transaction_time IS NULL OR store_id IS NULL OR sto  OR transaction_qty IS NULLre_location IS NULL OR product_id IS NULL OR product_category IS NULL OR product_type IS NULL OR product_detail IS NULL  OR transaction_qty IS NULL  OR unit_price IS NULL;
+OR transaction_time IS NULL OR store_id IS NULL OR transaction_qty IS NULLre_location IS NULL OR product_id IS NULL OR product_category IS NULL OR product_type IS NULL OR product_detail IS NULL  OR transaction_qty IS NULL  OR unit_price IS NULL;
 
 ---checking  how many product do we have
 select distinct count (product_id)as number_of_rows
