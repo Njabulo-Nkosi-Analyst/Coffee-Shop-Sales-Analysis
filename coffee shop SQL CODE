@@ -1,13 +1,13 @@
 -- Checking for null values
-
 SELECT * 
 FROM "BRIGHT"."COFFEE"."SHOP"
 WHERE transaction_id IS NULL OR
 transaction_date IS NULL 
-OR transaction_time IS NULL OR store_id IS NULL OR transaction_qty IS NULLre_location IS NULL OR product_id IS NULL OR product_category IS NULL OR product_type IS NULL OR product_detail IS NULL  OR transaction_qty IS NULL  OR unit_price IS NULL;
+OR transaction_time IS NULL OR store_id IS NULL OR transaction_qty IS NULL OR Store_location IS NULL 
+OR product_id IS NULL OR product_category IS NULL OR product_type IS NULL OR product_detail IS NULL OR unit_price IS NULL; --no null value
 
----checking  how many product do we have
-select distinct count (product_id)as number_of_rows
+---count unique product id
+select distinct count (product_id) as unique_product-id 
   from"BRIGHT"."COFFEE"."SHOP";
 
   ---how many customer do we have
@@ -36,7 +36,7 @@ select distinct count (product_id)as number_of_rows
   from "BRIGHT"."COFFEE"."SHOP"
   group by all;
 
-  --dates mon_sun
+  --date mon_sun
   select dayname(to_date(transaction_date)) as day_of_the_week 
  from "BRIGHT"."COFFEE"."SHOP";
 
@@ -72,7 +72,6 @@ from "BRIGHT"."COFFEE"."SHOP";
 
 
 ---magic starts here 
-
 select
       count(transaction_id)as number_of_transaction,
       count(product_id) as product_sold,
