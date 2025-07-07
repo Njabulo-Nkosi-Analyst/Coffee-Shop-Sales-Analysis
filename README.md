@@ -1,15 +1,15 @@
 # Coffee-Shop-Sales-Analysis
  Using historical transactional data from Bright Coffee Shop to uncover actionable business insights for a newly appointed CEO Using SQL and Microsoft Excel, to get key metrics to support strategic decision-making.
 # 📝 Key-Insight
-Sales for year 2023
+-Sales for year 2023
 ## 📊Sales within six-month period
-.Jan	12%	
-.Feb	11%	
-.Mar	14%	
-.Apr	17%	
-.May	22%	
-.Jun	24%	
-.May and June is our best profitable months
+-Jan	12%	
+-Feb	11%	
+-Mar	14%	
+-Apr	17%	
+-May	22%	
+-Jun	24%	
+-May and June is our best profitable months
 ### Weekdays Trends 
 .Mon	15%	
 .Tue	14%	
