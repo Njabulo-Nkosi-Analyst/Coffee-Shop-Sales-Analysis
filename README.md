@@ -1,8 +1,8 @@
 # Coffee-Shop-Sales-Analysis
  Using historical transactional data from Bright Coffee Shop to uncover actionable business insights for a newly appointed CEO Using SQL and Microsoft Excel, to get key metrics to support strategic decision-making.
-# Key-Insight
+# 📝 Key-Insight
 Sales for year 2023
-## Sales within six-month period
+## 📊Sales within six-month period
 .Jan	12%	
 .Feb	11%	
 .Mar	14%	
@@ -19,13 +19,13 @@ Sales for year 2023
 .Sat	14%	
 .Sun	14%	
 .Highest sales occurs in monday and friday
-#### Daily trends 
+#### 🚀🕒Daily trends 
 .Morning(06:00:00 - 11:59:59) =56%	
 .Afternoon(12:00:00 - 16:59:59) =29%	
 .Everning(17:00:00 - 19:59:59) =15%	
 .Night(20:00:00 - 05:59:59) =0.42%	
 .Most sales happens in the morning
-#### Product trends 
+#### 📈Product trends 
 .Coffee	39%	
 .Tea	28%	
 .Bakery	12%	
@@ -35,7 +35,7 @@ Sales for year 2023
 .Loose Tea	2%	
 .Flavours	1%	
 .Packaged Chocolate	0.63%	
-##showing top selling product in each category
+##  📈Showing top selling product in each category
 .In Coffee product the Best-selling item is Gourmet brewed coffee
 .In Tea product the Best-selling item is Brewed Chai tea
 .In Bakery product most sold item is scone
@@ -46,7 +46,7 @@ Sales for year 2023
 .in Flavours product best-selling item is Regular syrup
 .In Packaged Chocolate product best-selling item is Drinking Chocolate
 
-#### Unit price range in each produuct category
+#### 📈Unit price range in each produuct category
 .Flavours	From R0.80 TO	R0.80
 .Coffee		From R2.00 TO	R4.25
 .Tea		From R2.50	TO R4.00
@@ -58,7 +58,7 @@ Sales for year 2023
 .Branded	From R12 TO	R28
 .Expensive product is Coffee beans
 .Cheapest product is flavours
-####Store location Revenue
+#### 📍Store location Revenue
 .Astoria	R232243.91	
 .Hell's Kitchen	R236511.17	
 .Lower Manhattan	R230057.25	
