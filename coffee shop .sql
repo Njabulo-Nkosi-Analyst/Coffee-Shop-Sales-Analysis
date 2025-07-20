@@ -91,7 +91,15 @@ select
   when transaction_time between '12:00:00' and '16:59:59' then 'afternoon'
   when transaction_time between '17:00:00' and '19:59:59' then 'everning'
   else 'night'
-  end as time_basket
+  end as time_basket,
+   CASE WHEN Unit_PRICE <='10' THEN 'Budget'
+when unit_price <='20' then 'Standard'
+when unit_price <='30' then 'Premium'
+else 'Deluxe'
+ END AS Price_basket
+  from bright.coffee.shop
+  group by ALL
+  order by revenue desc;
   from bright.coffee.shop
   group by all
   order by revenue desc;
