@@ -1,4 +1,4 @@
-	# Bright Coffee Shop: Driving Growth - Sales Performance Review (Jan-Jun 2023)
+# Bright Coffee Shop: Driving Growth - Sales Performance Review (Jan-Jun 2023)
 
 ## Overview 
 
