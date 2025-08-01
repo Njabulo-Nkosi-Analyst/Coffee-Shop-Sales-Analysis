@@ -76,7 +76,7 @@ select
       count(transaction_id)as number_of_transaction,
       count(product_id) as product_sold,
       sum(transaction_qty*unit_price) as revenue,
-      sum(transaction_qty)as quantity_sold,
+      sum (transaction_qty)as quantity_sold,
       store_location,
       product_id,
       product_category,
@@ -86,7 +86,7 @@ select
    to_char(to_date(transaction_date),'yyyymm') as month_id,
    monthname(to_date(transaction_date)) as month_names,
    dayname(to_date(transaction_date)) as day_of_the_week,
-    ,case 
+    case 
   when transaction_time between '06:00:00' and '11:59:59' then 'morning'
   when transaction_time between '12:00:00' and '16:59:59' then 'afternoon'
   when transaction_time between '17:00:00' and '19:59:59' then 'everning'
@@ -100,6 +100,4 @@ else 'Deluxe'
   from bright.coffee.shop
   group by ALL
   order by revenue desc;
-  from bright.coffee.shop
-  group by all
-  order by revenue desc;
+ 
