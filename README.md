@@ -43,10 +43,7 @@ The presentation proposes a dual-focus strategy: aggressive amplification of hig
 ## How to View
 
 The full presentation is available in PDF format within this repository.
-- `~temp_1753216353822-compressed.pdf` (Original PDF uploaded for analysis)
-- `smile coffee .pdf` (Refined PDF with updated cover and summary page)
-
-To view the presentation, simply download and open the `smile coffee .pdf` file.
+- To view the presentation, simply download and open the `Coffee Shop Presentation` file.
 
 
 
