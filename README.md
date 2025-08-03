@@ -40,10 +40,40 @@ The presentation proposes a dual-focus strategy: aggressive amplification of hig
 
 
   
-## How to View
+##  🎥 How to View
 
 The full presentation is available in PDF format within this repository.
 - To view the presentation, simply download and open the `Coffee Shop Presentation` file.
+
+-🧠 **Miro Planning** - This includes project goals, KPIs, filters, and design planning
+
+> **[🧠 View Miro Board](https://miro.com/app/board/your-board-link/)**  
+This includes project goals, KPIs, filters, and design planning.
+
+---
+
+- 💻**SQL Code** - Includes all queries used for data transformation and insights.
+
+
+> **[📂 View SQL Scripts](./sql/coffee_shop_analysis.sql)**  
+Includes all queries used for data transformation and insights.
+
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard Preview](./images/coffee_dashboard.png)
+
+> **[🔗 View Full Dashboard on Power BI (Public Link)](https://app.powerbi.com/view?r=your-dashboard-link)**
+
+---
+
+## 📩 Contact
+
+Want to collaborate or have feedback?  
+📧 Email: Njabuloxnkosi12@gmail.com
+🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
 
 
 
