@@ -42,7 +42,7 @@ The presentation proposes a dual-focus strategy: aggressive amplification of hig
   
 ##  🎥 How to View
 
--**💡Full presentation** - is available in PDF format within this repository.- [>🔗View Presentation](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/9f645d422670eb39631317ef64d5abee0b964b97)
+-**💡Full presentation** - is available in PDF format within this repository.- [>🔗View Presentation](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/da4f0e700986b4f4272f42b1c353c4f9c040e5ee)
 
 -🧠 **Miro Planning** - This includes project goals, KPIs, filters, and design planning
 [> 🔗View Miro Board](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/3a970fd81c9181099ae96758d3f5d104bf287605)
