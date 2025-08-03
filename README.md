@@ -42,37 +42,26 @@ The presentation proposes a dual-focus strategy: aggressive amplification of hig
   
 ##  🎥 How to View
 
-The full presentation is available in PDF format within this repository.
-- To view the presentation, simply download and open the `Coffee Shop Presentation` file.
+-**💡Full presentation** - is available in PDF format within this repository.- [>🔗View Presentation](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/9f645d422670eb39631317ef64d5abee0b964b97)
 
 -🧠 **Miro Planning** - This includes project goals, KPIs, filters, and design planning
-
-> **[🧠 View Miro Board](https://miro.com/app/board/your-board-link/)**  
-This includes project goals, KPIs, filters, and design planning.
-
----
-
-- 💻**SQL Code** - Includes all queries used for data transformation and insights.
+[> 🔗View Miro Board](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/3a970fd81c9181099ae96758d3f5d104bf287605)
 
 
-> **[📂 View SQL Scripts](./sql/coffee_shop_analysis.sql)**  
-Includes all queries used for data transformation and insights.
+-💻**SQL Code** - Includes all queries used for data transformation and insights.
+[> 🔗 View SQL Scripts](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/a29c78c94581465e8c427c77aa5f0d9e2d2007e1) 
 
----
 
-## 📊 Dashboard Preview
+ -📊 **Dashboard Preview**- [>🔗 View Full Dashboard on Power BI (Public Link)](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/a7b0d01fe0c473d6d06fe5d2d211f071302b4aa6)
 
-![Dashboard Preview](./images/coffee_dashboard.png)
+-**📝Project Description** - This File Shows The Objective And Aims Of The New CEO.- [>🔗 View Project Description](https://github.com/Njabulo-Nkosi-Analyst/Coffee-Shop-Sales-Analysis/commit/9f645d422670eb39631317ef64d5abee0b964b97)
 
-> **[🔗 View Full Dashboard on Power BI (Public Link)](https://app.powerbi.com/view?r=your-dashboard-link)**
-
----
 
 ## 📩 Contact
 
 Want to collaborate or have feedback?  
 📧 Email: Njabuloxnkosi12@gmail.com
-🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 LinkedIn:(www.linkedin.com/in/njabulo-nkosi-949359325)
 
 
 
